@@ -12,3 +12,20 @@ When you run our code , you will be asked to enter several words: including name
 
 
 Enjoy your trip in our world of creativity, adventures and fun !! 🎢🎭
+
+ 
+## Part 1 ( Storygenerator.py)
+
+The function `story_generate` takes 4 parameters (char1, char2, v1, v2). Those strings will be inserted in the four stories we created using `f_strings`. 
+A `storylist` is created then with those four stories. 
+
+The function will call the `random.choice(storylist)` which will choose randomly one of the stories to return.
+
+
+## Part 2 (main.py)
+
+`get_word` fucntion will ask the user for a specific input
+
+The `main()` function will then call the `get_word` function four times to get the 4 different variables, which will be handed to the `story_generate` module. Finally, the return value of `story_generate` will be printed in the console. 
+
+
