@@ -35,3 +35,6 @@ The `main()` function will then call the `get_word` function four times to get t
 
 ## Guess the Number 
 
+In this baby project: two functions do all the job. The first one `get_the_range` asks the user to give it two inputs (the lowest and highest number) which will be used by the other function. Errors are handled using `Try-Except`to make sure the user is giving integers as input. 
+
+The second function `guessing_game` uses both of the user's inputs of `get_the_range` to generate a random number in between those integers (Using the `random` module). The user is asked to guess this number and has three chances to guess it. In order to tell the user if he guessed the answer right or not, an interesting ascii art nmodule is used `cowsay`. If the user guessed right the answer, a tirex will appear and tell him that he won. In the other case, a cow will announce him the news that he lost. 
