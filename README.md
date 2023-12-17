@@ -38,3 +38,8 @@ The `main()` function will then call the `get_word` function four times to get t
 In this baby project: two functions do all the job. The first one `get_the_range` asks the user to give it two inputs (the lowest and highest number) which will be used by the other function. Errors are handled using `Try-Except`to make sure the user is giving integers as input. 
 
 The second function `guessing_game` uses both of the user's inputs of `get_the_range` to generate a random number in between those integers (Using the `random` module). The user is asked to guess this number and has three chances to guess it. In order to tell the user if he guessed the answer right or not, an interesting ascii art nmodule is used `cowsay`. If the user guessed right the answer, a tirex will appear and tell him that he won. In the other case, a cow will announce him the news that he lost. 
+
+
+## The Dice Roll
+
+This game is so simple. In fact, its goal is to replace the dices we use while we play boardgames ! You may be asking yourself, why in the world I would replace the real dice with a virtual one that runs in the console. Well, I don't know about you and your experiences, however for me, I usually found myself missing the dice after preparing the boardgame and I know by experience that its pretty frustrating. That said, I don't have to worry about this problem anymore and hopefully when you find my Dice , you neither won't worry about this problem. 
