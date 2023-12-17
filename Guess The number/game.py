@@ -41,7 +41,7 @@ def guessing_game(x,y):
                     cowsay.cow(f'Game Over')
                     break
             else:
-                cowsay.trex('you guessed right man')
+                cowsay.trex('You guessed right man')
                 break
 
 
