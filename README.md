@@ -3,7 +3,7 @@
 
 ![image](https://github.com/Aladin-bit01/Random-Story-Teller/assets/144846441/a1b86a29-53eb-4b24-83c9-5ac9512ef27a)
 
-If you are reading this now, this probably means that you are in the computer science, software, cyber, data science, etc. big family. Whether you are a friend, a a classmate, a teacher, an employer, a dummy CS student or anybody else, I would like to tell you welcome to my baby projects zone. Yes, yes, you are going to discover my first personal projects here (Date while I am writning this is *8 Dec 2023* ). These projects are so simple and so beginner friendly. They helped me consolidate simple but crucial notions in the `PYTHON` language specifically and in programming in general. 
+If you are reading this now, this probably means that you are in the computer science, software, cyber, data science, etc. big family. Whether you are a friend, a classmate, a teacher, an employer, a dummy CS student or anybody else, I would like to tell you welcome to my baby projects zone. Yes, yes, you are going to discover my first personal projects here (Date while I am writning this is *8 Dec 2023* ). These projects are so simple and so beginner friendly. They helped me consolidate simple but crucial notions in the `PYTHON` language specifically and in programming in general. 
 
 Hope you enjoy your trip Here !
 
